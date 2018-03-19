@@ -22,4 +22,4 @@ Functions-in-progress
 
 
 To try out our app
-[download] (https://github.com/TwoBlocksAway/RecycleMe-Android/raw/develop/apk/RecycleMe.apk)
+[download](https://github.com/TwoBlocksAway/RecycleMe-Android/raw/develop/apk/RecycleMe.apk)
