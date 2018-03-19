@@ -19,3 +19,6 @@ Functions-in-progress
 - reset refundable total
 - history of refundable price
 - details of refundable items
+
+
+To try out our app, you can download the apk here: https://github.com/TwoBlocksAway/RecycleMe-Android/tree/develop/apk
