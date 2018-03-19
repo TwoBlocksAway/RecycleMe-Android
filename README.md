@@ -21,4 +21,5 @@ Functions-in-progress
 - details of refundable items
 
 
-To try out our app, you can download the apk here: https://github.com/TwoBlocksAway/RecycleMe-Android/tree/develop/apk
+To try out our app
+[download] (https://github.com/TwoBlocksAway/RecycleMe-Android/raw/develop/apk/RecycleMe.apk)
