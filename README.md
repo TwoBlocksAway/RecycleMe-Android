@@ -1,4 +1,5 @@
-# RecycleMe-Android
+# RecycleMe
+## An Android Application created using Android studio
 
 This application was created at HackUvic 2018 with an attempt to make recycling a more engaging experience for people all around.
 
